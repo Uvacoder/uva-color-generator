@@ -124,8 +124,8 @@ export default function HomePage({
         </section>
         <footer className='pt-24 pb-8 text-center text-gray-700'>
           © {new Date().getFullYear()} By{' '}
-          <UnderlineLink href='https://designed-by-oliver.vercel.app/'>
-            Oliver Pan
+          <UnderlineLink href='https://abclinks.vercel.app/'>
+            uvacoder
           </UnderlineLink>
         </footer>
       </main>
