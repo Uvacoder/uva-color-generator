@@ -9,7 +9,7 @@ import { ThemeSwitch } from '../ThemeSwitch';
 
 const links = [
   {
-    href: 'https://github.com/uvacoder/abc-color-ui-generator',
+    href: 'https://github.com/uvacoder/uva-color-generator',
     label: <AiFillGithub className='h-5 w-5' />,
   },
   // { href: '/', label: 'Route 2' },
@@ -24,7 +24,7 @@ export default function Header() {
           href='/'
           className='bg-gradient-to-tr from-stone-800 to-stone-400 bg-clip-text font-medium text-stone-700 text-transparent hover:text-gray-500 dark:from-stone-50 dark:to-stone-500'
         >
-          Generate Colors
+          ColorGenerator4u
         </UnstyledLink>
         <nav>
           <ul className='flex items-center justify-between space-x-4'>
