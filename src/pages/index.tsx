@@ -38,7 +38,7 @@ export default function HomePage({
   return (
     <>
       <Seo
-        templateTitle='Awesome Color'
+        templateTitle='ColorGenerator4u'
         image='https://github.com/assets/13263720/00f36291-a4ae-4e74-bfcb-56c55e49e2c6'
       />
 
